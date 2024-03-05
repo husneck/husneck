@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @husneck
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning programming various microchips
 - 💞️ I’m looking to collaborate on ... (open minded)
 - 📫 How to reach me: www.somecode.de
 
