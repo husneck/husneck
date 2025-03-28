@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @husneck
-- 👀 I’m interested in embedded systems
+- 👀 I’m interested in accessible documents and AI
 - 💞️ I’m looking to collaborate on ... (open minded)
 - 📫 How to reach me: www.somecode.de
 
